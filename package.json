@@ -1,0 +1,27 @@
+{
+  "name": "moonjs-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader for compiling moonjs templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diasfs/moonjs-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "moonjs"
+  ],
+  "author": "Fábio Dias <fabio@dias.poa.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diasfs/moonjs-loader/issues"
+  },
+  "homepage": "https://github.com/diasfs/moonjs-loader#readme",
+  "dependencies": {
+    "moonjs": "^0.11.0"
+  }
+}
